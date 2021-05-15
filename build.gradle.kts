@@ -1,3 +1,5 @@
+import org.asciidoctor.gradle.jvm.AsciidoctorTask
+
 version = "3.6.0"
 
 repositories {
@@ -5,13 +7,12 @@ repositories {
 }
 
 plugins {
-    id("org.asciidoctor.jvm.convert") version "3.1.0"
+    id("org.asciidoctor.jvm.convert") version "3.+"
 }
 
 tasks {
-  "asciidoctor"(org.asciidoctor.gradle.jvm.AsciidoctorTask::class) {
-    sources(delegateClosureOf<PatternSet> {
-      include("index.adoc")
-    })
+  "asciidoctor"(AsciidoctorTask::class) {
+    baseDirFollowsSourceDir()
+    setOutputDir("${buildDir}/asciidoc/${project.version}")
   }
 }
