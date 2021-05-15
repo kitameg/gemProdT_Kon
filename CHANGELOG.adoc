@@ -1,0 +1,13 @@
+== Changelog
+
+=== 3.6.0
+* Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+* Maecenas sit amet justo lorem. Duis a diam magna. Donec tincidunt in purus ac feugiat. 
+* Nulla mi eros, varius eget dapibus nec, aliquet eu ipsum. 
+* Cras maximus vitae mi quis imperdiet.
+* Quisque tincidunt dolor at mollis molestie. Fusce pellentesque porta sem vitae fermentum. Etiam quis arcu eu nulla convallis maximus pharetra sed elit.
+* Suspendisse id nunc eu ipsum ultrices tristique vitae et est. 
+* Suspendisse suscipit pretium imperdiet. Nullam sit amet nunc at sem pharetra sodales. 
+
+=== 3.0.0
+* Initialie PTV3 Version mit Fachmodulen NFDM, EMP und dem Basis dienst QES
