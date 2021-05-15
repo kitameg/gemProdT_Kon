@@ -1,0 +1,4 @@
+= Produktdefinition Konnektor
+
+.Versionen
+* link:3.6.0/[3.6.0/ (latest)]
