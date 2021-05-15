@@ -1,5 +1,12 @@
 == Changelog
 
+=== 4.8.2
+* Suspendisse id nunc eu ipsum ultrices tristique vitae et est. 
+* Suspendisse suscipit pretium imperdiet. Nullam sit amet nunc at sem pharetra sodales. 
+
+=== 4.0.0
+* Erweitert um Fachmodul ePA
+
 === 3.6.0
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 * Maecenas sit amet justo lorem. Duis a diam magna. Donec tincidunt in purus ac feugiat. 
