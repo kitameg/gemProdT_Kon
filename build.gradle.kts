@@ -1,5 +1,4 @@
-import org.asciidoctor.gradle.jvm.AsciidoctorTask
-
+// project version
 version = "3.6.0"
 
 repositories {
@@ -10,9 +9,9 @@ plugins {
     id("org.asciidoctor.jvm.convert") version "3.+"
 }
 
-tasks {
-  "asciidoctor"(AsciidoctorTask::class) {
+tasks.named<org.asciidoctor.gradle.jvm.AsciidoctorTask>("asciidoctor") {
     baseDirFollowsSourceDir()
     setOutputDir("${buildDir}/asciidoc/${project.version}")
-  }
 }
+
+tasks.named("build") { dependsOn("asciidoctor") }
