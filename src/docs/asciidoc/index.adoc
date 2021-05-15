@@ -1,5 +1,7 @@
 = Produktdefinition Konnektor
 
+*link:../[Alle Versionen]*
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum blandit odio eget nulla elementum, at finibus metus imperdiet. Proin eget augue sapien. Praesent fringilla lectus nec felis pharetra lacinia. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc eros massa, vehicula eu pharetra sit amet, faucibus sit amet nisl. Vivamus suscipit dolor laoreet interdum convallis. Phasellus consequat libero sit amet est fermentum eleifend. Sed at consectetur est, vel maximus dui.
 
 include::../../../CHANGELOG.adoc[]
