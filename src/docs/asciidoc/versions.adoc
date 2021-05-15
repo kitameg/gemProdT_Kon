@@ -1,4 +1,5 @@
 = Produktdefinition Konnektor
 
 .Versionen
-* link:3.6.0/[3.6.0/ (latest)]
+* link:4.8.2/[4.8.2/]
+* link:3.6.0/[3.6.0/]

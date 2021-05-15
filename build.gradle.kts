@@ -1,5 +1,5 @@
 // project version
-version = "3.6.0"
+version = "4.8.2"
 
 repositories {
     mavenCentral()
