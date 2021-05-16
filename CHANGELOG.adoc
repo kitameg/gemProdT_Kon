@@ -1,5 +1,8 @@
 == Changelog
 
+=== 4.x WIP
+* Weiterentwickliung des PTV4 Konnektors. Offen für Vorschläge.
+
 === 4.8.2
 * Suspendisse id nunc eu ipsum ultrices tristique vitae et est. 
 * Suspendisse suscipit pretium imperdiet. Nullam sit amet nunc at sem pharetra sodales. 
