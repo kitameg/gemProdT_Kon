@@ -1,5 +1,5 @@
 // project version
-version = "4-wip"
+version = "4.x-WIP"
 val git by extra("https://github.com/kitameg/${project.name}.git")
 
 repositories {

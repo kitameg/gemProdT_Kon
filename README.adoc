@@ -11,6 +11,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum blandit odio
 |Gültig, keine neuzulassung
 |link:https://kitameg.github.io/gemProdT_Kon/4.8.2[4.8.2]
 |Gültig
-|link:https://kitameg.github.io/gemProdT_Kon/4-wip[4-wip]
+|link:https://kitameg.github.io/gemProdT_Kon/4.x-WIP[4.x-WIP]
 |Nächste PTV4 In-Vorbereitung
 |===
